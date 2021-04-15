@@ -1,9 +1,9 @@
-package hello;
+package test;
 
 public class test{
 
 	public static void main(String[] args){
-		System.out.println("Hello world");
+		System.out.println("Hello world..i'm from github");
 	}
 
 }
